@@ -2,3 +2,9 @@ User-agent: *
 Allow: /
 
 Sitemap: https://selvaganesh-r.vercel.app/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
